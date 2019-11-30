@@ -1,0 +1,73 @@
+.navbar{
+    width : 100%;
+    background-color: rgb(136, 85, 119);
+    padding : 15px;
+}
+span{
+    font-size: 25px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-body{
+    width : 95%;
+    padding: 20px;
+}  
+.nav-body ul {
+   margin:0;
+   padding:0;
+   float: right;
+}
+.nav-body li {
+    display: inline;
+    font-size: 25px;
+    padding : 10px;
+}
+a{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: overline;
+}
+body{
+    margin: 0;
+    background-image: url(background/caca.jpg);
+    
+}
+.content{
+    width: 50%;
+    background-color: rgba(94, 93, 55, 0.726);
+    margin: auto;
+    padding: 120px 80px;
+    
+}
+h1{
+    font-family: helvetica;
+    color: rgba(0, 0, 0, 0.788);
+    margin: auto;
+    text-align: center;
+
+}
+h2{
+    font-family: helvetica;
+    color: rgba(0, 0, 0, 0.788);
+    margin: auto;
+    text-align: center;
+
+}
+h3{
+    font-family: helvetica;
+    color: rgba(42, 104, 68, 0.521);
+    text-align: center;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    background: rgb(18, 56, 45);
+    width: 150px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    padding-top: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
+h3:hover{
+    background: rgb(185, 226, 214);
+}

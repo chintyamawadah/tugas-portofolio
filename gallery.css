@@ -1,0 +1,16 @@
+.chintya{
+    color: rgb(8, 1, 1);
+    background-color: rgba(92, 88, 40, 0.699);
+    width: 80%;
+    padding: 120px 80px;
+    font-family: helvetica;
+    font-size: 10px;
+}
+body{
+    background-image: url(background/piu.jpg) ;
+    width: 80%;
+    background-color: rgba(15, 37, 11, 0.76);
+    margin: auto;
+    padding: 120px 80px;
+
+}
